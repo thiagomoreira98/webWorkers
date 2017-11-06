@@ -1,0 +1,21 @@
+.controls {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+button {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	width: 70px;
+	height: 30px;
+}
+
+.result {
+
+}
+
+h1 {
+	text-align: center;
+}
